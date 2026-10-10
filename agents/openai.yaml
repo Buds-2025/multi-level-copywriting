@@ -1,0 +1,4 @@
+interface:
+  display_name: "多层次文案写作"
+  short_description: "按用途选择信息、选择、向往与传播表达，支持品牌语气、改稿和文案诊断"
+  default_prompt: "使用$multi-level-copywriting，根据材料、读者和使用场景完成可直接使用的文案。"
